@@ -35,7 +35,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ## License
 
-This project is licensed under the [MIT License] (LICENSE). You are free to usem and share this project with proper attribution.
+This project is licensed under the [MIT License] (LICENSE). You are free to use and share this project with proper attribution.
 
 ## License
 Hi! My name is Paul Kouassi, a data analytics enthusiast. I am trying to hone my current data analytics skills with SQL Server.
